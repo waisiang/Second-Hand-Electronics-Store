@@ -1,7 +1,7 @@
 
 <?php
 $servername = "localhost";
-$username = "id20107545_project123";
+$username = "root";
 $password = "Project12!@#";
 $database = "id20107545_second_hand";
 
