@@ -1,8 +1,8 @@
 
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "Project12!@#";
+$servername = "database-3.cei8rdd5og3m.us-east-1.rds.amazonaws.com";
+$username = "admin";
+$password = "Project12";
 $database = "id20107545_second_hand";
 
 
