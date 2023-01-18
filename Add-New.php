@@ -56,7 +56,7 @@
     <section class="u-clearfix u-section-1">
       <div class="u-clearfix u-sheet u-valign-top-xs u-sheet-1">
         <div class="u-form u-form-1">
-          <form action="/Add_New_Form.php" method="post" enctype="multipart/form-data" >
+          <form action="/Second-Hand-Electronics-Store/Add_New_Form.php" method="post" enctype="multipart/form-data" >
             <div>
               <label >Product Name</label>
               <input type="text" placeholder="" id="product_name" name="product_name" >
