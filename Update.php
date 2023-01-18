@@ -75,7 +75,7 @@ $price = $row["product_price"];
     <section class="u-clearfix u-section-1" id="carousel_29d5">
       <div class="u-clearfix u-sheet u-valign-top-xs u-sheet-1">
         <div class="u-form u-form-1">
-         <form action="/Update_Process.php" method="post" enctype="multipart/form-data" >
+         <form action="/Second-Hand-Electronics-Store/Update_Process.php" method="post" enctype="multipart/form-data" >
              <div>
               <img style= "width: 100%; height:100%"; src="<?php echo $image;?>">
                  <label style= "margin: auto 40%" ><?php echo $image;?></label>
