@@ -27,7 +27,7 @@ if(isset($_POST['submit']))
 
 			if (in_array($img_ex_lc, $allowed_exs)) {
 				$new_img_name =$img_ex_lc;
-				$img_upload_path = $_SERVER['DOCUMENT_ROOT']."/image/".$img_name;
+				$img_upload_path = "image/".$img_name;
 			    $sql_name_data = "image/".$img_name;
 				move_uploaded_file($tmp_name, $img_upload_path);
 
